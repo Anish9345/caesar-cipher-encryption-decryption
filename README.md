@@ -46,12 +46,12 @@ Caesar Cipher is a classical cryptographic technique where each letter in the me
 ## ▶️ How to Run
 
 1. Make sure Python is installed
-2. Clone the repository:
-   git clone https://github.com/your-username/caesar-cipher-encryption-decryption.git
-3. Navigate to the project folder:
-   cd caesar-cipher-encryption-decryption
-4. Run the program:
-   python caesar-cipher-encryption-decryption.py
+2. Clone the repository: 
+   `git clone https://github.com/Anish9345/caesar-cipher-encryption-decryption.git`
+3. Navigate to the project folder: 
+   `cd caesar-cipher-encryption-decryption`
+4. Run the program: 
+   `python caesar-cipher-encryption-decryption.py`
 
 ---
 
