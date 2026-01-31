@@ -1,4 +1,4 @@
-# Caesar Cipher Encryption & Decryption
+# 🔒🗝️ Caesar Cipher Encryption & Decryption
 
 This project implements the **Caesar Cipher algorithm** to encrypt and decrypt text.  
 The user can choose whether to encrypt or decrypt a message and can use either the **default Caesar Cipher shift (3)** or a **custom shift value**.
