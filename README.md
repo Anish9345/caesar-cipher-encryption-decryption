@@ -53,6 +53,7 @@ Caesar Cipher is a classical cryptographic technique where each letter in the me
 4. Run the program:
    python caesar-cipher-encryption-decryption.py
 
+
 ## 🧪 Sample Output
 
 Choose an option:
@@ -69,6 +70,7 @@ Enter your choice (1 or 2): 1
 
 Encrypted Text: Khoor Zruog
 
+
 ## 📚 Concepts Used
 
 - ASCII values
@@ -79,6 +81,7 @@ Encrypted Text: Khoor Zruog
 - Conditional statements
 - Loops
 - User input handling
+
 
 ## 🎯 Purpose of the Project
 
