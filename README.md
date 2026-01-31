@@ -78,8 +78,8 @@ Encrypted Text: Khoor Zruog
 - ASCII values
 - Caesar Cipher algorithm
 - Python built-in functions:
-- ord()
-- chr()
+- `ord()`
+- `chr()`
 - Conditional statements
 - Loops
 - User input handling
@@ -88,7 +88,7 @@ Encrypted Text: Khoor Zruog
 
 ## 🎯 Purpose of the Project
 
-This project is created for learning and academic purposes to understand:
+This project is created for **learning and academic purposes** to understand:
 
   - Basic cryptography concepts
   - Character encoding (ASCII)
